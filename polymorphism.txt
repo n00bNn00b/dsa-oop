@@ -1,3 +1,3 @@
-The word polymorphism has come from two greek words "poly" and "morphs". Poly means many and morphs means forms. So, it means many forms. Polymorphism is one of the most important topic in Object Oriented Programming.
+The word polymorphism has come from two greek words "poly" and "morphs". Poly means many and morphs means forms. So, it means many forms. Polymorphism is one of the most important topic in Object Oriented Programming. 
 
 To make codes easier to read, to create resusability polymorphism is required.
